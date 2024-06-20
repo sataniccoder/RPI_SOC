@@ -9,4 +9,4 @@ and it will contain my util_script.py program that i am making in conjunction wi
 ## Layout
 this project will be layed out as follows   
 each folder will have a readme.md file that will explain and document everything in the folder   
-EG: [snort setup](https://github.com/buffkermitisagod/RPI_SOC/tree/mainsnort/readme.md) will explain why and how i setup snort and it will contain an example repo
+EG: [snort setup](https://github.com/buffkermitisagod/RPI_SOC/tree/main/snort/readme.md) will explain why and how i setup snort and it will contain an example repo
