@@ -26,4 +26,4 @@ pi@raspberrypi:~ $ apt install snort openvpn -y
 ```
 
 ## End
-now it's time to setup snort, you can read about it [here](https://github.com/buffkermitisagod/RPI_SOC/snort/readme.md)
+now it's time to setup snort, you can read about it [here](https://github.com/buffkermitisagod/RPI_SOC/tree/mainsnort/readme.md)
