@@ -40,4 +40,4 @@ TCP TTL:64 TOS:0x0 ID:0000 IpLen:20 DgmLen:00 DF
 
 ## afterword
 i haven't fully made my own snort config, but when the rest of the project it done i will be returing too it to add more rules to check for things on the openvpn etc...   
-the next step is setting up my openvpn server and port forwading it so i can securly connect to it outside of my LAN
+the next step is setting up [pi-hole](https://github.com/buffkermitisagod/RPI_SOC/edit/main/pi_hole/readme.md) to act as a dns server, and block any domains i don't want to accses on my network
