@@ -42,6 +42,6 @@ i used the command ```openvpn pi.opvn``` too connect to my system remotley from 
 i could conform that it was working as i could login to my pi-hole server.
 
 
-## end
+## Outro
 thank you for reading! this has been really fun so far, and the next one [here](https://buffkermitisagod/RPI_SOC/blob/main/splunk/readme.md) where we setup a splunk server and use some other tool to gather information from my network!
 
