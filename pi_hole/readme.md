@@ -49,4 +49,4 @@ when we try go too the [site](http://test_domain_not_real.fake/) we get a `this 
 ## Outro
 thank you for taking the time to read this, it's always good to try learn a new tech or tool and one thing im aiming for with this is to eventualy turn it into a portable router/defence device with it being able to detect bad traffic, networks and even checking if a usb stick i find on the floor isn't actualy a USB ruberducky.   
 
-the next part of this project is [here](http://github.com/buffkermitisagod/) where we will setup a openvpn servr and port forwading!
+the next part of this project is [here](https://github.com/buffkermitisagod/RPI_SOC/tree/main/openvpn) where we will setup a openvpn servr and port forwading!
